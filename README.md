@@ -5,7 +5,7 @@ JavaSwing图书管理系统  练习一下简单的CRUD  JDBC    SQL语句  MySQL
 
 测试账号1  密码1
 
-没有注册界面
+无注册功能  
 
 图书的CRUD 和图书类别的CRUD
 
